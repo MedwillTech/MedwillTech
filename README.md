@@ -71,6 +71,6 @@ Je suis **Data Scientist** et également qualifié pour les Projets en **Data En
 
 
 
-Worked with data, applying statistical models, designing the ﬂow of the data product, and monitoring the end-to-end products. Worked on different projects in multiple domains like Finance, Education, Healthcare, Public Sector.
+J'ai travaillé avec des données, en appliquant des modèles statistiques, en concevant le flux du produit de données et en surveillant les produits de bout en bout. J'ai participé à différents projets dans plusieurs domaines tels que la finance, l'éducation, la santé et le secteur public.
 
 Merci de visiter mon profil ! ⭐ N'hésitez pas à explorer mes dépôts et à me suivre pour plus de contenu.
