@@ -1,8 +1,7 @@
-# 👋 Bienvenue sur mon profil GitHub!
+# 👋 Hallo je m'appelle Wilfried!
+ 
 
-![Banner](https://your-image-link-here.com/banner.jpg)  
-
-Je suis un **Data Scientist** et **Data Engineer** hautement qualifié, titulaire d'un **Master en Management de Systèmes d'Information** obtenu à l'**Université de Paderborn en Allemagne** en avril 2022. Fort de mes expériences en entreprise et en freelance, j'ai démontré ma capacité à résoudre des défis complexes liés aux données et à concevoir des solutions innovantes. Grâce à des formations approfondies et à de multiples certifications, j'ai acquis une expertise reconnue dans mon domaine.
+Je suis **Data Scientist** et également qualifié pour les Projets en **Data Engineer** , titulaire d'un **Master en Management de Systèmes d'Information** obtenu à l'**Université de Paderborn en Allemagne** en avril 2022. Fort de mes expériences en entreprise et en freelance, j'ai démontré ma capacité à résoudre des défis complexes liés aux données et à concevoir des solutions innovantes. Grâce à des formations approfondies et à de multiples certifications, j'ai acquis une expertise reconnue dans mon domaine.
 
 ---
 
@@ -70,10 +69,7 @@ Je suis un **Data Scientist** et **Data Engineer** hautement qualifié, titulair
 
 ---
 
-### 🎨 Inspirations et Design
-![Design inspiration](https://your-image-link-here.com/inspiration.jpg)
 
----
 
 Worked with data, applying statistical models, designing the ﬂow of the data product, and monitoring the end-to-end products. Worked on different projects in multiple domains like Finance, Education, Healthcare, Public Sector.
 
