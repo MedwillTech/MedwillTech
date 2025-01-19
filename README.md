@@ -41,19 +41,19 @@ Je suis **Data Scientist** et également qualifié pour les Projets en **Data En
 
 ## 📂 Projets
 
-### 🌐 [Projet1 Data Scientist : Prédiction de la demande de streaming de contenu](https://github.com/username/project1)
+### ⚛️ [Projet1 Data Scientist : Prédiction de la demande de streaming de contenu](https://github.com/username/project1)
 
   - **Description :** Utiliser des données historiques de visionnage pour prédire la demande de contenu futur sur une plateforme de streaming. Cela peut inclure l'analyse de tendances saisonnières, l'influence des sorties de nouveaux épisodes, et les préférences géographiques.
   - **Technologies :** Python, TensorFlow, Pandas, scikit-learn.
   - **Impact :** Aider les entreprises comme Netflix à mieux planifier la gestion de leurs serveurs et les lancements de contenu.
 
-### 🌐 [Projet2 Data Scientist : Système de recommandation basé sur le deep learning](https://github.com/username/project2)
+### ⚛️ [Projet2 Data Scientist : Système de recommandation basé sur le deep learning](https://github.com/username/project2)
 
   - **Description :** Construire un système de recommandation qui utilise des techniques de deep learning pour suggérer des produits ou des contenus à des utilisateurs en fonction de leur historique et de leurs interactions.
   - **Technologies :** Python, PyTorch, Keras, Apache Spark.
   - **Impact :** Améliorer l'engagement utilisateur sur des plateformes comme Amazon ou Google Play Store.
 
-### 🌐 [Projet3 Data Scientist : Détection de fraudes financières](https://github.com/username/project3)
+### ⚛️ [Projet3 Data Scientist : Détection de fraudes financières](https://github.com/username/project3)
 
   - **Description :** Développer un modèle de machine learning pour détecter les transactions financières suspectes en temps réel. Ce projet pourrait se baser sur des techniques d'anomalies et d'apprentissage supervisé.
   - **Technologies :** Python, R, XGBoost, SQL.
